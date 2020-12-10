@@ -1,0 +1,18 @@
+; THR_vekonyvakolat_Dryvit
+; THR_vekonyvakolat_Dryvit
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = THR_vekonyvakolat_Dryvit
+
+[Mechanical]
+Density = 1800,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 10,00 GPa
+
+[Thermal]
+SpecificHeat = 880,00 J/kg/K
+ThermalConductivity = 0,99 W/m/K
+ThermalExpansionCoefficient = 600,00 µm/m/K

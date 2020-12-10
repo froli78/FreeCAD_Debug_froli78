@@ -1,0 +1,18 @@
+; Szilikon_tomites
+; Szilikon_tomites
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = Szilikon_tomites
+
+[Mechanical]
+Density = 800,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 1,00 GPa
+
+[Thermal]
+SpecificHeat = 600,00 J/kg/K
+ThermalConductivity = 0,50 W/m/K
+ThermalExpansionCoefficient = 100,00 µm/m/K

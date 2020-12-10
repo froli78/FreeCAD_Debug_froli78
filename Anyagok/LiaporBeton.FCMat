@@ -1,0 +1,25 @@
+; LiaporBeton
+; LiaporBeton
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = LiaporBeton
+Description = A standard C-25 construction concrete
+Father = Aggregate
+StandardCode = Masterformat 03 33 13
+
+[Mechanical]
+CompressiveStrength = 25 MPa
+Density = 1750,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 32000 MPa
+
+[Thermal]
+SpecificHeat = 600,00 J/kg/K
+ThermalConductivity = 1,095 W/m/K
+ThermalExpansionCoefficient = 12,00 µm/m/K
+
+[Cost]
+ProductURL = https://en.wikipedia.org/wiki/Concrete

@@ -1,0 +1,18 @@
+; Keramia_lap_burkolat
+; Keramia_lap_burkolat
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = Keramia_lap_burkolat
+
+[Mechanical]
+Density = 1800,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 20,00 GPa
+
+[Thermal]
+SpecificHeat = 750,00 J/kg/K
+ThermalConductivity = 1,05 W/m/K
+ThermalExpansionCoefficient = 12,00 µm/m/K

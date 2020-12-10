@@ -1,0 +1,18 @@
+; Laminalt_padlo_burkolat
+; Laminalt_padlo_burkolat
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = Laminalt_padlo_burkolat
+
+[Mechanical]
+Density = 500,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 1,00 GPa
+
+[Thermal]
+SpecificHeat = 2720,00 J/kg/K
+ThermalConductivity = 0,12 W/m/K
+ThermalExpansionCoefficient = 34,00 µm/m/K

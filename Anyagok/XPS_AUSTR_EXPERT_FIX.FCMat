@@ -1,0 +1,18 @@
+; XPS_AUSTR_EXPERT_FIX
+; XPS_AUSTR_EXPERT_FIX
+; information about the content of such cards can be found on the wiki:
+; https://www.freecadweb.org/wiki/Material
+; file created by FreeCAD 0.19.23074 (Git)
+
+[General]
+Name = XPS_AUSTR_EXPERT_FIX
+
+[Mechanical]
+Density = 20,00 kg/m^3
+PoissonRatio = 0.17
+YoungsModulus = 1,00 GPa
+
+[Thermal]
+SpecificHeat = 1460,00 J/kg/K
+ThermalConductivity = 0,03 W/m/K
+ThermalExpansionCoefficient = 3500,00 µm/m/K
